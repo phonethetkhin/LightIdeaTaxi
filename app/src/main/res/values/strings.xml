@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Taxi</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="log_out">Log Out</string>
+    <string name="log_in_using_google">Log In using Google</string>
+    <string name="search_customer_name">Search Customer Name</string>
+    <string name="no_results_found">No results found</string>
+    <string name="get_started">Get Started</string>
+</resources>
